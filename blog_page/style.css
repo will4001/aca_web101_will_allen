@@ -1,0 +1,9 @@
+body {background-color: #aaaaaa;}
+#container {
+    background-color: purple;
+    width: 50%;
+    margin: auto;
+    text-align: center; 
+    border-block-start-style: double;
+    border-block-start-color: yellow;
+    
