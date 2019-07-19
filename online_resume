@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+     <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>SpiderMans resume</title>
+        <link rel="stylesheet" href="style-resume.css">
+      </head>
+    <body>
+        <main><h1>Spiderman</h1></main>
+            <div><article><b><h2>Friendly Neighbordhood Spider</h2></b></article>
+                    <img src="https://static3.cbrimages.com/wordpress/wp-content/uploads/2018/06/spider-man-ps4-game.jpg" width="750" height="400" alt="spider-man-ps4-game">
+                     <div></div><section><b>About me</b></section></div>
+                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quisquam tempore placeat iusto nostrum laudantium illo quo minima, architecto reprehenderit reiciendis magnam hic beatae eum sapiente dolores repellat sunt perferendis blanditiis.</p>
+                    <div><p><b>BIO</b> Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio corporis architecto eum fugit quibusdam nam iste, consequatur pariatur voluptate nobis saepe libero autem, qui quis quo veritatis eveniet accusamus rem!</p></div>
+                      <p><b>Villian Resume</b></p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Inventore illo accusantium mollitia totam alias error eligendi, eveniet libero nihil ad aliquam obcaecati repellat! Alias saepe laudantium assumenda eaque! Necessitatibus, molestiae?loren
+<footer>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nam temporibus eos earum consectetur? Rem, ipsum deserunt nesciunt quae cumque tempora eos accusantium distinctio fugiat facere non atque nostrum quis suscipit.</footer>
+
+                </body>
+</html>
