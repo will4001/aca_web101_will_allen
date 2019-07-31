@@ -1,0 +1,25 @@
+body {background-color: red}
+#container {
+    bakcground-image: center;
+    background-image: url(https://i.etsystatic.com/16438233/r/il/783ec0/1350848272/il_fullxfull.1350848272_82mi.jpg);
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+h1:hover {
+    color: black;
+}
+
+header:hover { 
+    border-color: whitesmoke;
+}
+article {
+    border: 2px solid black;
+    font:bold;
+    
+}
+ p { 
+     border-block-color: white;
+ }
