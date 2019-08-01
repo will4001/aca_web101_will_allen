@@ -1,0 +1,45 @@
+Header {
+    display: grid;
+    grid-row: initial;
+    justify-items: center;
+    background: white;
+ 
+}
+
+aside {
+    display: flex;
+    flex-flow: row;
+    gap: 20px;
+    margin: 125px;
+
+}
+
+main {
+    display: grid;
+    align-self: center;
+    grid-template-columns: repeat(auto-fit, minmax(444px, 1fr));
+
+}
+
+footer {
+    display: flex;
+    flex-flow: row;
+       
+
+}
+
+
+
+
+
+   
+
+
+    
+
+
+
+ 
+
+
+  
