@@ -1,6 +1,32 @@
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+
+}
 body {
-    display: grid
-    grid-template-columns: 50% 50%;
-    grid-template-rows: 25% 25% 25% 25%;
-  }
+  display: grid;
+  grid-column: auto;
+}
+body {
+  background-color: black
+}
+
+div {
+  display: grid;
+  grid-template-columns: 40px;
+  grid-template-rows: 60px;
+  font-style: italic;
+  color: aliceblue;
+  border: 2px blue;
+
+}
+
+.greetings {
+  display: grid;
+  margin: 30px;
+  width: auto;
+
+  
 }

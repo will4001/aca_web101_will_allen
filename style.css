@@ -98,3 +98,23 @@ body {
     letter-spacing: 16px;
     font-style: italic;
   }
+
+  @media (min-width: 576px) {
+
+  }
+  
+  /* Medium and up (Tablets) */
+  @media (min-width: 768px) {
+  
+  }
+  
+  /* Large and up (Desktops) */
+  @media (min-width: 992px) {
+  
+  }
+  
+  /* Extra Large and up (Wide Screen Desktops) */
+  @media (min-width: 1200px) {
+  
+  }
+  

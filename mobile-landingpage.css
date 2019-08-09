@@ -99,11 +99,9 @@ bdo {
         letter-spacing: 16px;
         font-style: italic;
       }
-}
+      
+       @media (max-width: 600px) {
+         color: 
+       }
 
 
-body {
-    background-color: aqua
-}
-
-buildin
