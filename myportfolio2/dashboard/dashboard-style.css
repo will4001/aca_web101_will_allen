@@ -1,0 +1,20 @@
+body {
+    background-image: url(fullscreen-wallpapers-1.jpg)
+
+}
+
+h1 {
+    text-align: center;
+    color: yellow;
+    border: 15px solid yellowgreen;
+    height: 100px;
+
+}
+
+div { 
+    background: lightgreen;
+    width: 500px;
+    height: 200px;
+    
+    
+}
