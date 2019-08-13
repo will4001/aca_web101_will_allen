@@ -1,0 +1,47 @@
+body { 
+    width: 850px;
+    margin: 0 auto;
+    color: black;
+
+}
+
+main{
+    background-image: url(nasa.jpg);
+    width: 850px;
+    height: 450px;
+    margin: 0% auto;
+    background-repeat: no-repeat;
+
+}
+h1 {
+    font-family: 'Abril Fatface', cursive; 
+    color: white;
+    text-align: center;
+
+}
+
+section {
+    display: flex;
+    width: 850px;
+    flex-direction: row;
+    justify-content: space-between
+}
+
+ article { 
+     width: 260px;
+     height: 324px;
+     background: grey;
+ }
+
+ form {
+    margin-left:auto;
+    margin-right:auto;
+    max-width: 500px;
+    height: 100px;
+    background: rgb(161, 104, 104);
+    padding: 25px 15px 25px 10px;
+    font: 12px Georgia, "Times New Roman", Times, serif;
+    color: #888;
+    text-shadow: 1px 1px 1px #FFF;
+    border:1px solid #E4E4E4;
+ }
