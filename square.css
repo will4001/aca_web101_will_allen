@@ -1,0 +1,40 @@
+div {
+background: blue;
+border: 5px solid yellow;
+height: 50px;
+width: 50px;
+transition: all 3s ease-in-out;
+text-align: center;
+margin: auto;
+margin-bottom: 10px;
+transform: skew(20deg);
+transform: translate(300px) rotate(90deg);
+transform: scale(2);
+
+
+}
+
+div:hover {
+    background: red;
+    margin-bottom: auto;
+}
+
+#box1 div:nth-child(odd) {
+    background-color: aquamarine;
+    transition: all 1s ease-in;
+    transform: translate(300px) rotate(360deg);
+
+}
+
+#box1:hover > div:nth-child(odd) {
+    background-color: blueviolet;
+    transform: translate(-300px) rotate(-360deg);
+    transform: translate(50px 100px);
+
+}
+ body {
+     background: black;
+ }
+
+ 
+ }
