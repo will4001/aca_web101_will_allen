@@ -1,0 +1,87 @@
+header {
+    background-image:  url(4k-wallpaper-clouds-dawn-1261728.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+    
+    
+    
+}
+
+.fa {
+    display: flex;
+    justify-content: flex-end;
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 50%;
+    
+  }
+  
+  .fa:hover {
+      opacity: 0.7;
+  }
+  
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+    
+
+  }
+  
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+    .fa-instagram {
+        background: #125688;
+        color: white;
+      }
+      h1 {
+        font-family: 'Monoton', cursive;
+        color: blue;
+        text-align: center;
+        animation:  slidein 3s linear 1s infinite running;
+
+      }
+      main {
+          background: black;
+          width: auto;
+          height: 400px;
+      }
+      p {
+          color: white;
+      }
+
+
+      .container { 
+        display: grid;
+        grid-template-columns: 30% 30%;
+        grid-template-rows: auto;
+          
+      }
+      
+      button {
+          grid-column-start: 2;
+          padding: 10px 10px;
+          color: red;
+          cursor: pointer;
+          transform: rotateY(20deg);
+          
+      }
+
+      @media screen and (min-width: 576px) {
+        body {
+          background-color: lightgreen;
+          
+        }
+      }
+      
+      @media screen and (min-width: 992px) {
+        body {
+          background-color: lavender;
+          
+        }
+      

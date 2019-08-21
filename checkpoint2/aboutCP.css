@@ -1,0 +1,31 @@
+body {
+    background-color: black;
+
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    margin: 100px;
+
+}
+
+main {
+    color: red;
+}
+
+h1 {
+    text-align: center;
+    color: red;
+}
+
+@media screen and (min-width: 576px) {
+    body {
+      background-color: yellow;
+      
+    }
+  }
+  
+  @media screen and (min-width: 992px) {
+    body {
+      background-color:black;
