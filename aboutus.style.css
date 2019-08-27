@@ -1,0 +1,92 @@
+header {
+    background-image: url(header.jpg);
+    height: 100px;
+    text-align: center;
+    color: crimson;
+
+    
+}
+
+main { 
+    background-image: url(spain.jpg) ;
+    height: 450px;
+
+
+}
+
+footer {
+    background: blue;
+    height: 200px;
+    text-align: center;
+
+
+}
+body {
+    background: black
+
+}
+
+h6 { 
+    content: center;
+    color: gold;
+    text-align: center;
+
+
+}
+p.speech {
+    position: ;
+    width: 200px;
+    height: 100px;
+    text-align: center;
+    line-height: 100px;
+    background-color: #fff;
+    border: 8px solid #666;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    border-radius: 30px;
+    -webkit-box-shadow: 2px 2px 4px #888;
+    -moz-box-shadow: 2px 2px 4px #888;
+    box-shadow: 2px 2px 4px #888;
+}
+
+h2:hover {
+    color: aliceblue;
+}
+
+article:hover {
+    text-align: center;
+    color: aliceblue;
+
+    
+}
+ div {
+     color: gold
+     ;
+ }
+ nav:hover {
+     color: gold;
+
+ }
+  
+ @media (min-width: 576px) {
+     
+ }
+ 
+
+@media (min-width: 768px) {
+
+}
+
+/* Large and up (Desktops) */
+@media (min-width: 992px) {
+
+}
+
+/* Extra Large and up (Wide Screen Desktops) */
+@media (min-width: 1200px) {
+
+}
+
+
+
+
